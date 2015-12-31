@@ -1,0 +1,12 @@
+@(tareas:List[TareaBD])
+<?xml version="1.0" encoding="UTF-8"?>
+<tareas>
+@for(tarea <- tareas){
+	<tarea>
+		<id>@tarea.id</id>
+		<tarea>@tarea.tarea</tarea>
+		<tipo>@tarea.tipo</tipo>
+		<idUsuario>@tarea.usuario.id</idUsuario>
+	</tarea>
+}
+</tareas>

@@ -1,0 +1,15 @@
+@(user:models.UsuarioBD)
+<?xml version="1.0" encoding="UTF-8"?>
+<usuario>
+	<id>@user.id</id>
+	<nombre>@user.nombre</nombre>
+	<tareas>
+	@for(tarea <- user.getTareas()){
+		<tarea>
+			<idTarea>@tarea.id</idTarea>
+			<tarea>@tarea.tarea</tarea>
+			<tipo>@tarea.tipo</tipo>
+		</tarea>
+	}
+	</tareas>
+</usuario>

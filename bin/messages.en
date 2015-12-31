@@ -1,0 +1,16 @@
+inserted=User Inserted
+duplicated=User Duplicated
+notfound=User Not Found
+notfounds=Users Not Found
+deleted=User Deleted
+notexist=User Not Exist
+insertedtask=Task Inserted
+deletedtask=Task Deleted
+notfoundtask=Task Not Found
+notfoundtasks=Tasks Not Found
+paramname=Name Parameter Expected
+paramtask=Task Parameter Expected
+paramtype=Type Parameter Expected
+paramnametype=Name And Type Parameters Expected
+paramuser=User Parameter Expected
+paramid=Id Paramater Expected

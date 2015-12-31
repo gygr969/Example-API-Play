@@ -1,0 +1,8 @@
+@(tarea:TareaBD)
+<?xml version="1.0" encoding="UTF-8"?>
+<tarea>
+	<id>@tarea.id</id>
+	<tarea>@tarea.tarea</tarea>
+	<tipo>@tarea.tipo</tipo>
+	<idUsuario>@tarea.usuario.id</idUsuario>
+</tarea>

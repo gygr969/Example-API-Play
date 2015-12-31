@@ -1,0 +1,16 @@
+inserted=Usuario insertado
+duplicated=Usuario repetido
+notfound=Usuario No Encontrado
+notfounds=Usuarios No Encontrados
+deleted=Usuario Borrado
+notexist=No Existe El Usuario
+insertedtask=Tarea Insertada
+deletedtask=Tarea Borrada
+notfoundtask=Tarea No Encontrada
+notfoundtasks=Taras No Encontradas
+paramname=Falta Parametro Nombre
+paramtask=Falta Parametro Tarea
+paramtype=Falta Parametro Tipo
+paramnametype=Faltan Los Parametros Nombre y Tipo
+paramuser=Falta Parametro Usuario
+paramid=Falta Parametro Id
