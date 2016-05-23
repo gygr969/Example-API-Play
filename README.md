@@ -1,5 +1,5 @@
 # Exampe API Play
-This is your new Play application
-=================================
 
-This file will be packaged with your application, when using `activator dist`.
+For view the full example runnig go to this URL: 
+
+https://boiling-coast-5412.herokuapp.com/usuarios/
